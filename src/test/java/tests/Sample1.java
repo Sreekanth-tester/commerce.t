@@ -14,7 +14,7 @@ public class Sample1
 		x=x-y;           //x= 7     24-17
 	 System.out.printf("values are %d and  %d",x,y);
          System.out.println("hello Sir"); //remove this line not required
-
+        //remove all unwanted comments
 	}
 
 }
