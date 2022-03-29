@@ -13,7 +13,7 @@ public class Sample1
 		y=x-y ;          // y=17;   24-7
 		x=x-y;           //x= 7     24-17
 	 System.out.printf("values are %d and  %d",x,y);
-         System.out.println("hello Sir");
+         System.out.println("hello Sir"); //remove this line not required
 
 	}
 
